@@ -1,14 +1,20 @@
 {
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-03",
   "season": "第1シーズン (2026/9/2 〜 2026/11/30)",
   "users": [
+    { "name": "ふたば🐰🌱", "kana": "ふたば", "points": 22, "status": "進行中" },
+    { "name": "すーぱーよにこ🦄🩵", "kana": "すーぱーよにこ", "points": 11, "status": "進行中" },
     { "name": "ナイトプリンス🌙しょーたん", "kana": "しょーたん", "points": 3, "status": "進行中" },
+    { "name": "高城💩🍎", "kana": "たかしろ", "points": 2, "status": "進行中" },
+    { "name": "揺蕩依", "kana": "たゆたいまいご", "points": 2, "status": "進行中" },
+    { "name": "時狐(とき)", "kana": "とき", "points": 2, "status": "進行中" },
     { "name": "インフル・の・悪夢", "kana": "いんふるあくむ", "points": 1, "status": "進行中" },
-    { "name": "高城💩🍎", "kana": "たかしろ", "points": 1, "status": "進行中" },
-    { "name": "揺蕩依", "kana": "たゆたいまいご", "points": 1, "status": "進行中" },
-    { "name": "時狐(とき)", "kana": "とき", "points": 1, "status": "進行中" },
+    { "name": "永音", "kana": "えね", "points": 1, "status": "進行中" },
+    { "name": "輝く太陽🐬🍒🫶🫶💪(空色)", "kana": "かがやくたいよう(そらいろ)", "points": 1, "status": "進行中" },
     { "name": "ひょんくん🫐🐶", "kana": "ひょんくん", "points": 1, "status": "進行中" },
-    { "name": "ふたば🐰🌱", "kana": "ふたば", "points": 1, "status": "進行中" },
-    { "name": "冥蒼華-メアリ-", "kana": "めあり", "points": 1, "status": "進行中" }
+    { "name": "Heather", "kana": "へざー", "points": 1, "status": "進行中" },
+    { "name": "冥蒼華-メアリ-", "kana": "めあり", "points": 1, "status": "進行中" },
+    { "name": "🫠ﾖｼﾖｼ🎑ｵﾂｷﾐ🐥", "kana": "よしよしおつきみ", "points": 1, "status": "進行中" },
+    { "name": "SelkieeSeal", "kana": "", "points": 1, "status": "進行中" }
   ]
 }
